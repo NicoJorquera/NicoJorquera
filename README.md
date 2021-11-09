@@ -36,12 +36,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJorquera&layout=compact&theme=chartreuse-dark)](https://github.com/NicoJorquera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJorquera&layout=compact&theme=vision-friendly-dark)](https://github.com/NicoJorquera/github-readme-stats)
 
 
 <br />
 
-![NicoJorquera](https://github-readme-stats.vercel.app/api?username=NicoJorquera&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
+![NicoJorquera](https://github-readme-stats.vercel.app/api?username=NicoJorquera&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark)
                 
 
 </p>
