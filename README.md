@@ -41,7 +41,7 @@
 
 <br />
 
-![NicoJorquera](https://github-readme-stats.vercel.app/api?username=NicoJorquera&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)
+![NicoJorquera](https://github-readme-stats.vercel.app/api?username=NicoJorquera&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
                 
 
 </p>
