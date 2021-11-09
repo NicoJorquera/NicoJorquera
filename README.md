@@ -13,7 +13,6 @@
 
 
 - 🤔 My interests are Front End development;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via jorquera.nicolas02@gmail.com to reach me;
 
 
@@ -40,9 +39,6 @@
 
 
 <br />
-
-
-![NicoJorquera's github stats](https://github-readme-stats.vercel.app/api?username=NicoJorquera&show_icons=true&theme=highcontrast)
   
 </p>
 
