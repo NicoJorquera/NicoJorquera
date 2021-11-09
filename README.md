@@ -36,7 +36,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJorquera&layout=compact&theme=highcontrast)](https://github.com/NicoJorquera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJorquera&layout=compact&theme=chartreuse-dark)](https://github.com/NicoJorquera/github-readme-stats)
 
 
 <br />
